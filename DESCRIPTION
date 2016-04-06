@@ -1,0 +1,10 @@
+Package: metagearComCon
+Type: Package
+Title: metagearComCon
+Version: 1.0
+Date: 2016-03-31
+Author: Meredith Krause
+Maintainer: Meredith Krause <meredithk@mail.usf.edu>
+Description: This package is an expansion of the metagear package for meta-analysis. This package expansion will calculate the variance and covariance of several effect sizes with a common control.
+License: GNU
+RoxygenNote: 5.0.1

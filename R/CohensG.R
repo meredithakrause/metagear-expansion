@@ -1,6 +1,6 @@
 #' @title Cohen's G for common control
 #' 
-#' @param table
+#' @param tables
 #' @param X_t_a Column label for the means (X) of the treatment group (t) in group a
 #' @param SD_t_a Column label for the standard deviations (SD) of the treatmet group in group a
 #' @param N_t_a Column label for the sample sizes (N) of the treatment group in group a

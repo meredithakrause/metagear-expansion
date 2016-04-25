@@ -1,6 +1,6 @@
-Package: metagearComCon
+Package: metagear.common.control
 Type: Package
-Title: metagearComCon
+Title: metagearcomcon
 Version: 1.0
 Date: 2016-03-31
 Author: Meredith Krause
